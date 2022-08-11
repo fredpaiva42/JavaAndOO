@@ -52,6 +52,8 @@ O Java é **case-sensitive**.
 
 O Java é uma linguagem **estaticamente** e **fortemente tipada**.
 
+Uma das convenções do Java é a declaração de classes com letras maiúsculas utilizando o **CamelCase**.
+
 ### Declaração de Variáveis
 
 Variável do tipo `inteiro`:
@@ -83,7 +85,7 @@ public class Exemplo {
 }
 ````
 
-Uma das convenções do Java é a declaração de classes com letras maiúsculas utilizando o **CamelCase**.
+### Tipos e Conversão
 
 No Java, assim como no C, a divisão entre inteiros nos dá um resultado inteiro. Quando quisermos fazer uma divisão precisa, é necessário que a variável que vai armazenar o resultado seja do tipo `double` e que um dos número seja declarado como `double`.
 
